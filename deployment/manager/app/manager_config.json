@@ -1,0 +1,15 @@
+{
+"realms": {
+    "default": {
+      "appTitle": "Senselive",
+      "headers": [
+        "map", "assets", "rules", "insights", "language", "users", "roles", "account", "logs", "logout"
+      ],
+      "styles": ":host > * {--or-app-color2: #f0e8f2; --or-app-color4: #FFFF00; }",
+      "logo": "/images/logo.jpg",
+      "logoMobile": "/images/logo-mobile.jpg",
+      "favicon": "/images/favicon.jpg",
+      "language": "en"
+    }
+  }
+}
